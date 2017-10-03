@@ -2,7 +2,7 @@
 
 scanner v0.0.1
 
-The program scans for used 'eval' function, Scanner performs a comprehensive search of eval function throughout the JS file in the given directory, One can use flag '-node' to perform only scanning of node_modules. By default  it scans all JS files as well as node_modules.
+The program scans for used 'eval' function, Scanner performs a comprehensive search of eval function throughout the JS file in the given directory, One can use flag '-node' to perform only scanning of node_modules. By default  it scans all JS files as well as node_modules. Tested on macOS Sierra v10.12.6.
 
 Usage 1: If you only want to include node_modules 
          
